@@ -27,11 +27,4 @@ npm run dev
 
 This will start the server, and you can access your project in the browser at http://localhost:3000 (or the configured port).
 
-# Screenshot
 
-Here we have project screenshot :
-
-#### Dark Mode
-![screenshot-1](screenshot-1.png)
-#### Light Mode
-![screenshot-2](screenshot-2.png)
