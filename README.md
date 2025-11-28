@@ -125,10 +125,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 ### Development Setup
 ```bash
 # Fork and clone the repo
-git clone https://github.com/yourusername/Personal_Portfolio.git
-
-# Create a new branch
-git checkout -b feature/your-feature-name
+git clone https://github.com/Sivanishanth2/Personal_Portfolio.git
 
 # Make your changes and test
 
@@ -168,7 +165,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Support
 
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: shivachandra2702@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Sivanishanth2/Personal_Portfolio/issues)
 
 ## 🙏 Acknowledgments
