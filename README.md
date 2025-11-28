@@ -1,19 +1,8 @@
-```markdown
 # 🚀 Personal Portfolio
 
 A clean and responsive personal portfolio website built with HTML.
 
 Showcase your skills, projects, and experience in a visually appealing and user-friendly way.
-
-## ![License](https://img.shields.io/github/license/Sivanishanth2/Personal_Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/Sivanishanth2/Personal_Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Sivanishanth2/Personal_Portfolio?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Sivanishanth2/Personal_Portfolio)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Sivanishanth2/Personal_Portfolio)
-![GitHub last commit](https://img.shields.io/github/last-commit/Sivanishanth2/Personal_Portfolio)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📋 Table of Contents
 
@@ -49,9 +38,6 @@ The website is built using standard HTML and CSS, ensuring broad compatibility a
 - 📱 **Mobile-Friendly**: Optimized for mobile devices.
 - 🛠️ **Easy to Deploy**: Simple deployment process to various platforms.
 
-## 🎬 Demo
-
-🔗 **Live Demo**: [https://your-demo-url.com](https://your-demo-url.com)
 
 ### Screenshots
 ![Main Interface](screenshots/main-interface.png)
@@ -104,9 +90,8 @@ Edit the HTML and CSS files to customize the content and styling of the portfoli
     "theme": "light",
     "language": "en",
     "socialLinks": {
-      "github": "https://github.com/yourusername",
-      "linkedin": "https://linkedin.com/in/yourusername",
-      "twitter": "https://twitter.com/yourusername"
+      "github": "https://github.com/Sivanishanth2",
+      "linkedin": "https://www.linkedin.com/in/sivanishanth-c/",
     }
   }
 }
@@ -189,7 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📧 **Email**: your.email@example.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/Sivanishanth2/Personal_Portfolio/issues)
-- 📖 **Documentation**: [Full Documentation](https://docs.your-site.com)
 
 ## 🙏 Acknowledgments
 
@@ -197,4 +181,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📚 **Libraries used**:
   - [None] - This project uses pure HTML and CSS without external libraries.
 - 👥 **Contributors**: Thanks to all [contributors](https://github.com/Sivanishanth2/Personal_Portfolio/contributors)
-```
+
